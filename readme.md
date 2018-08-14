@@ -23,11 +23,11 @@ Once the program is running there are two selection screens to get acquainted wi
 
 The first is the startup screen as seen below. This menu allows the user to input nurse constraints. Inputting nurse constraints can only be done from this initial screen. Nurse constraints are specific days or shifts that should note that a nurse cannot work, does not want to work, or does want to work.
 
-![Alt text](./\sample image/Start_Screen.PNG?raw=true "Start Screen")
+![Alt text](https://github.com/NickHagopianZ/Senior-Project/blob/master/sample%20images/Start_Screen.PNG)
 
 
 The next screen is the main menu which will frequently be returned to. For a more complex understanding of the menu options or even submenus read the documentation for the software in the corresponding paper.
-![Alt text](./\sample image/Start_Screen.PNG?raw=true "Start Screen")
+![Alt text](https://github.com/NickHagopianZ/Senior-Project/blob/master/sample%20images/Main_menu.PNG)
 
 
 **[GitHub Repository](https://github.com/NickHagopianZ/Senior-Project/)**

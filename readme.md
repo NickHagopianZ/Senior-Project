@@ -1,4 +1,4 @@
-# Nurse Scheduling Problem readme
+# Nurse Scheduling Problem
 This software is created alongside a written analysis with the intention of critically examining all aspects of the nurse scheduling problem (NSP). This analysis considers varying constraints, problem size and solution methods to determine the best methods for solving the problem. The NSP found in the software, with the help of the balanced rosters constraint, is proven to be NP-hard.
 
 **Before Compiling**

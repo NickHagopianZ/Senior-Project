@@ -1,7 +1,8 @@
 # Nurse Scheduling Problem readme
 This software is created alongside a written analysis with the intention of critically examining all aspects of the nurse scheduling problem (NSP). This analysis considers varying constraints, problem size and solution methods to determine the best methods for solving the problem. The NSP found in the software, with the help of the balanced rosters constraint, is proven to be NP-hard.
 
-##Compiling and Running
+:   **Compiling and Running**
+
 **Before Compiling**
 - Make sure all files are in the same folder
 - Edit the config.txt as desired
@@ -18,7 +19,7 @@ This software is created alongside a written analysis with the intention of crit
 or
 - Type ./main if on mac
 
-##Initial Setup
+:   **Initial Setup**
 Once the program is running there are two selection screens to get acquainted with.
 
 
@@ -31,8 +32,8 @@ The next screen is the main menu which will frequently be returned to. For a mor
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 
-##[GitHub Repository](https://www.zillow.com/engineering/day-i-broke-zillow/)
+:   **[GitHub Repository](https://github.com/NickHagopianZ/Senior-Project/)**
 
 
-##Contributors
+:   **Contributors**
 Special thanks to my advisors Dr. Rob Kelvey and Dr. Nathan Fox.

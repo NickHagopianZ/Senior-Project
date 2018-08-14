@@ -1,0 +1,16 @@
+Max_days_in_a_row
+10
+Max_days_per_month
+20
+Min_days_per_month
+10
+Max_nurses_per_shift
+7
+Min_nurses_per_shift
+5
+Days
+30
+Shifts
+3
+Number_of_nurses
+50

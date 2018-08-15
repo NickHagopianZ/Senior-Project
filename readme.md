@@ -3,19 +3,21 @@ This software is created alongside a written analysis with the intention of crit
 
 **Before Compiling**
 - Make sure all files are in the same folder
-- Edit the config.txt as desired
+- Edit the config.txt as desired (found in the build folder)
 - Open the terminal
-- Change directory to the folder containing all the files
 
 **Compiling**
 - Ensure you have a compiler (for the following I used cygwin)
-- Compile by typing into the command line:
-`g++ -o main main.cpp Nurse.cpp Hospital.cpp Optimize_Schedule.cpp Schedule.cpp`
+- Double click run.bat
+or
+- Change directory to the folder containing all the src files and compile by typing into the command line:
+`g++ -o ../build/main main.cpp Nurse.cpp Hospital.cpp Optimize_Schedule.cpp Schedule.cpp`
 
 **Running**
-- Double click on main.exe if on windows
+If the run.bat file was not used to compile choose one of the following
+- Go to the build folder and double click on main.exe
 or
-- Type ./main if on mac
+- Change the terminal's current directory to the build folder and type ./main
 
 **Initial Setup**
 Once the program is running there are two selection screens to get acquainted with.
